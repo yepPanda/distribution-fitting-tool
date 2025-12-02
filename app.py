@@ -333,4 +333,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("Built with Streamlit • Data Science Project • 2024")
+st.markdown("Built with Streamlit • NE111 Project • 2025")
